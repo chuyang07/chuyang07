@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Chuyang Yu
 
-📖 M.S. in Engineering Management @ Johns Hopkins University (Dec 2025)
-🎓 B.Eng in Hydrology & Water Resources Engineering @ Northeast Agricultural University
-📊 Focus on Data Analytics, Risk Analysis & Decision Making, Environment Health
+- 📖 M.S. in Engineering Management @ Johns Hopkins University (Dec 2025)
+- 🎓 B.Eng in Hydrology & Water Resources Engineering @ Northeast Agricultural University
+- 📊 Focus on Data Analytics, Risk Analysis & Decision Making, Environment Health
 
 ## 🔎 Exploring Chuyang
 - Multidisciplinary background bridging *engineering and mathematics* with *management and communication*
@@ -16,8 +16,8 @@
 - **Extras:** Microsoft Office Suite  
 
 ## 📂 Featured Projects
-Across my Github, you'll find 5 projects that span market research, commodity price simulation, process optimization, risk prevention, and user behavior analysis
-Here I highlight 3 representative works that best demonstrate my strngths
+- Across my Github, you'll find 5 projects that span market research, commodity price simulation, process optimization, risk prevention, and user behavior analysis
+- Here I highlight 3 representative works that best demonstrate my strngths
 ### 💹 [Commodity-Price-MonteCarlo-Simulation-R](https://github.com/chuyang07/Commodity-Price-MonteCarlo-Simulation-R)  
 **Core Strength: Quantitative Modeling & Simulation**  
 - Built Monte Carlo simulations in R to forecast commodity price distributions under uncertainty  
