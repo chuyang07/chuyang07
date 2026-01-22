@@ -38,7 +38,7 @@
 *Risk Assessment and Management in Water Resources Projects: Insights and Future Directions* (First Author)
 
 ## 📬 Connect
-- Email: cyu86@jh.edu; yangshizi07@gmail.com  
+- Email: cyu86@alumni.jh.edu; yangshizi07@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/chuyang-yu-846155313/)
 - [Tableau Punlic](https://public.tableau.com/app/profile/chuyang.yu/vizzes)
 
